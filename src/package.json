@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "axios": "1.2.6",
+    "csbbust": "1.0.1",
+    "devexpress-diagram": "2.1.65",
+    "devexpress-gantt": "4.1.37",
+    "devextreme": "22.2.3",
+    "devextreme-quill": "1.5.18",
+    "devextreme-react": "22.2.3",
+    "dns": "0.2.2",
+    "es6-object-assign": "1.1.0",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "7.4.11",
+    "inferno-compat": "7.4.11",
+    "inferno-create-class": "7.4.11",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "7.4.11",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.0",
+    "node-fetch": "3.3.0",
+    "prettier": "2.7.1",
+    "prop-types": "15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "2.6.4"
+  },
+  "description": "In this demo, the visualRange property is used to zoom the chart initially. The zoomAndPan.argumentAxis property allows you to zoom and scroll the argument axis at runtime.\nZooming and scrolling are available on mouse-equipped and touch-enable devices: you can use the mouse wheel/spread and pinch gestures to zoom, and the scrollbar/drag gesture to scroll.\n",
+  "name": "Zooming and Panning - DevExtreme Charts"
+}
